@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mantencion NFC Tags</string>
+    <string name="action_settings">Settings</string> 
+    <string name="action_config">Configuraciones Sonido</string>
+    <string name="action_search">Buscar Tag</string>
+    <string name="search_hint">Tag n°</string>
+    <string name="action_Import">Importar</string>
+    <string name="action_clear">Clear</string>
+    <string name="button_nfc_config">Escribir NFC Tags</string>
+    <string name="button_texttag_config">Edición Mensajes Tags</string>
+    <string name="title_activity_nfcread_write">NFCReadWrite</string>
+    
+    <string name="title_activity_tag_edit">TagEdit</string>
+    <string name="title_activity_tag_list">TagList</string>
+    <string name="no_tags">No hay Tags ingresados</string>
+    <string name="add_tag">Agregar Tag</string>
+    <string name="tag_delete">Eliminar</string>
+    <string name="edit_tag">Edit Tag</string>
+    <string name="title">Nombre Tag</string>
+    <string name="body">Texto</string>
+    <string name="confirm">Guardar</string>
+    <string name="ok_detection">TAG Detectado</string>
+    
+    <string name="error_writing">ERROR DE ESCRITURA, ASEGURESE QUE EL TAG ESTA CERCA</string>
+    <string name="error_protected">ERROR! NO SE PUDO REALIZAR BLOQUEO, ASEGURESE QUE EL TAG ESTA CERCA</string>
+    <string name="error_reading">ERROR DE LECTURA, ASEGURESE QUE EL TAG ESTE CERCA</string>
+    <string name="cant_write">TAG PROTEGIDO, NO SE PUEDE REALIZAR ESCRITURA</string>
+    <string name="already_protected">TAG YA SE ENCUENTRA PROTEGIDO</string>
+    <string name="tag_protected">TAG PROTEGIDO, SOLO ES POSIBLE REALIZAR LECTURA</string>
+    
+    <string name="ok_writing">ESCRITURA EXITOSA</string>
+    <string name="ok_reading">LECTURA EXITOSA</string>
+    <string name="ok_protected">TAG BLOQUEADO EXITOSAMENTE</string>
+    <string name="ok_makereadonly">ESCRITURA PERMANENTE REALIZADA</string>
+    <string name="error_detected">TAG NO DETECTADO</string>
+    <string name="title_activity_import_tag">Tags</string>
+
+</resources>

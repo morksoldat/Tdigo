@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tdigo</string>
+    <string name="tdigo">Tdigo</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_config">Configuraciones Audio</string> 
+    <string name="explanation">Acerque su celular a una placa para escuchar su mensaje. Para volver a escuchar, presione el botón inferior</string>
+    <string name="content_description">Content</string>
+    <string name="nfc_setting">NFC esta desactivado en ajustes. Debe activarlo para poder leer Tags NFC.</string>
+    <string name="title_activity_configuraciones_audio">Configuraciones Audio</string>
+   
+    <string name="audio_pitch">Tono Audio</string>
+    <string name="audio_speed">Velocidad Audio</string>
+
+</resources>
